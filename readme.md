@@ -1,4 +1,4 @@
-# Reading measurements from cheap chinese digital calipers
+# Reading measurements from chinese digital calipers
 
 Created using PlatformIO addon for Visual Studio Code.
 
